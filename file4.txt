@@ -1,0 +1,2 @@
+text file from git ui
+new message from git ui
